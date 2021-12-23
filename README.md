@@ -46,11 +46,3 @@ The rest of the file is composed of NCBI gene IDs, one per line. Extraneous spac
 A comment (any text after a #) will cause the rest of the line it is in to be ignored, and can be anywhere in the file except on the first line. Comments can either be at the beginning of a line, or after a valid gene ID, at the end. There can be any number of spaces before or after the #.
 
 Blank lines, or lines consisting only of spaces, are silently ignored.
-
-To Do
----
-
-* add NOT specifying max e value or species on batch file
-* can pause and resume?
-* show expiration date for results
-* more code cleanup
